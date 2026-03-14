@@ -1,4 +1,4 @@
-const siteUrl = 'https://your-app.vercel.app/';
+const siteUrl = 'https://tripsync-ios.vercel.app/';
 
 export const siteDetails = {
     siteName: 'TripSync - Travel Companion',
