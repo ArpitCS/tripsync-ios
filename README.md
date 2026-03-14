@@ -230,18 +230,6 @@ The app connects to Supabase for all backend services. Key configuration lives i
 
 ---
 
-## 🌟 What Users Say
-
-<p align="center">
-  <img src="app-landing-page/public/images/testimonial-1.webp" alt="Testimonial 1" width="250" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="app-landing-page/public/images/testimonial-2.webp" alt="Testimonial 2" width="250" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="app-landing-page/public/images/testimonial-3.webp" alt="Testimonial 3" width="250" />
-</p>
-
----
-
 ## 📜 Legal
 
 | Document | Link |
